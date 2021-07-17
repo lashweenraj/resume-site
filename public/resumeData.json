@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name": "Lashween Raj",
+    "occupation": "Software Developer",
+    "description": "I have a strong passion towards Computer Science",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Lashween! I am a Software Developer currently completing my Degree in IT. I love to code in my spare time, and I have successfully completed various software projects in the past. My key skills are Front-End Web Development (Reactjs) as well as Back-End Development (Firebase).",
+    "contactmessage": "Get in touch with me to know more!",
+    "email": "lashweenraj2806@gmail.com",
+    "phone": "+6018-286 4713",
+    "address": {
+      "street": "Mutiaraville",
+      "city": "Cyberjaya",
+      "state": "Selangor",
+      "zip": "63000"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1BHPfCScWN1sfVhMLrHke_GZ0mIIoz-qV/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lashweenraj28",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lashweenraj",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Limkokwing University - Cyberjaya",
+        "degree": "Bachelor of Science in Software Engineering",
+        "graduated": "2021",
+        "description": "Currently in my final semester."
+      }
+    ],
+    "work": [
+      {
+        "company": "Robots Invented",
+        "title": "Software Development Intern",
+        "years": "JUNE - AUGUST 2020",
+        "description": "HTML, CSS & Javascript as well as C/C++ & Python"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "HTML",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-7d662.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lashween is a really great learner and a technically savvy individual.",
+        "user": "Asfand Ahmed"
+      }
+    ]
+  }
+}
